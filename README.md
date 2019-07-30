@@ -22,6 +22,20 @@ mkdir <nome diretorio> -> cria pasta / diretorio
 touch <nome do arquivo.txt> -> cria arquivo
 rm <nome do arquivo / diretorio> -> remove arquivo / pasta
 clear -> limpa tela de comandos
+git remote add origin <url do github> -> faz link entre diretorio e github
+git remote get-url origin -> checa o diretorio do github que está linkado o diretorio da maquina
+git status -> mostra os arquivos que estão no diretório e status
+git add <nome do arquivo> -> insere arquivo para enviar para o repositorio
+git commit -m "mensagem / etiqueta" -> confirma o arquivo que será enviado para o repositorio
+git 
+  
+git config --global user.name "Rodrigo Cordeiro"
+git config --global user.email "rodrigo_cordeiro@hotmail.com"
+
+
+
+
+  
   
 
 
