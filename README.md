@@ -13,8 +13,8 @@ GitBash > terminal onde digitamos/utilizamos os comandos
 
 Comandos básicos:
 
-pwd -> mostra a pasta atual /n
-cd .. -> volta um diretório /n
+pwd -> mostra a pasta atual 
+cd .. -> volta um diretório 
 cd <nome diretorio> -> entra no diretório
 ls -> lista arquivos
 ls -la -> lista arquivos com mais detalhes
@@ -27,7 +27,9 @@ git remote get-url origin -> checa o diretorio do github que está linkado o dir
 git status -> mostra os arquivos que estão no diretório e status
 git add <nome do arquivo> -> insere arquivo para enviar para o repositorio
 git commit -m "mensagem / etiqueta" -> confirma o arquivo que será enviado para o repositorio
-git 
+git push -u origin master - envia para o repositorio (se local e repositorio estiver atualizado)
+git pull origin master - envia para o repositorio (se local e repositorio estiver desatualizado fazer este passo antes do push)
+git status -> verifica o que está pendente na pasta  
   
 git config --global user.name "Rodrigo Cordeiro"
 git config --global user.email "rodrigo_cordeiro@hotmail.com"
