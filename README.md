@@ -13,8 +13,8 @@ GitBash > terminal onde digitamos/utilizamos os comandos
 
 Comandos básicos:
 
-pwd -> mostra a pasta atual
-cd .. -> volta um diretório
+pwd -> mostra a pasta atual /n
+cd .. -> volta um diretório /n
 cd <nome diretorio> -> entra no diretório
 ls -> lista arquivos
 ls -la -> lista arquivos com mais detalhes
