@@ -29,10 +29,11 @@ git add <nome do arquivo> -> insere arquivo para enviar para o repositorio
 git commit -m "mensagem / etiqueta" -> confirma o arquivo que será enviado para o repositorio
 git push -u origin master - envia para o repositorio (se local e repositorio estiver atualizado)
 git pull origin master - envia para o repositorio (se local e repositorio estiver desatualizado fazer este passo antes do push)
+** git pull --rebase origin master -> se der problema no PUSH/PULL use este comando
 git status -> verifica o que está pendente na pasta  
-  
 git config --global user.name "Rodrigo Cordeiro"
 git config --global user.email "rodrigo_cordeiro@hotmail.com"
+
 
 
 
