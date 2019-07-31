@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Katheryne 07/07
+=======
+Filipe de Souza
+21/07/1988
+>>>>>>> 75fd272a27153062fa7bca7733de858e53a29bd4

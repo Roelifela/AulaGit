@@ -13,6 +13,7 @@ GitBash > terminal onde digitamos/utilizamos os comandos
 
 Comandos básicos:
 
+git init -> sempre que iniciar um novo projeto na pasta
 pwd -> mostra a pasta atual 
 cd .. -> volta um diretório 
 cd <nome diretorio> -> entra no diretório
@@ -34,6 +35,21 @@ git status -> verifica o que está pendente na pasta
 git config --global user.name "Rodrigo Cordeiro"
 git config --global user.email "rodrigo_cordeiro@hotmail.com"
 git checkout -b <nome da branch> -> cria a nova branch (sem o -b ele só sai da branch)
+
+>> Mão na Massa <<
+Para clonar branch Develop
+copia a URL da branch a ser copiada
+vai no fitbash e cd.. para sair da branch
+cd nome do documemto
+abre no explorer o arquivo copiado e modifica/atualiza
+git status para ver o que está pendente
+git add <nome do arquivo> -> insere arquivo para enviar para o repositorio
+git commit -m "mensagem / etiqueta" -> confirma o arquivo que será enviado para o repositorio
+git pull -> atualiza o que a equipe tbem enviou
+git push -u origin master - envia para o repositorio (se local e repositorio estiver atualizado
+  
+
+
   
 
 
