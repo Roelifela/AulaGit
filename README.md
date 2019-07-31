@@ -45,6 +45,7 @@ abre no explorer o arquivo copiado e modifica/atualiza
 git status para ver o que está pendente
 git add <nome do arquivo> -> insere arquivo para enviar para o repositorio
 git commit -m "mensagem / etiqueta" -> confirma o arquivo que será enviado para o repositorio
+git pull -> atualiza o que a equipe tbem enviou
 git push -u origin master - envia para o repositorio (se local e repositorio estiver atualizado
   
 
