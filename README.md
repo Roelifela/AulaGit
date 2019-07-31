@@ -33,6 +33,14 @@ git pull origin master - envia para o repositorio (se local e repositorio estive
 git status -> verifica o que está pendente na pasta  
 git config --global user.name "Rodrigo Cordeiro"
 git config --global user.email "rodrigo_cordeiro@hotmail.com"
+git checkout -b <nome da branch> -> cria a nova branch (sem o -b ele só sai da branch)
+  
+
+
+
+
+
+
 
 
 
