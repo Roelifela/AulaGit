@@ -48,6 +48,13 @@ git commit -m "mensagem / etiqueta" -> confirma o arquivo que será enviado para
 git pull -> atualiza o que a equipe tbem enviou
 git push -u origin master - envia para o repositorio (se local e repositorio estiver atualizado
   
+Depois de resolver o conflito
+git add <nome do arquivo> -> insere arquivo para enviar para o repositorio
+git commit 
+git push 
+  
+Se der emergencia tela azul sem conseguir sair:
+CTRL + C: quit
 
 
   
